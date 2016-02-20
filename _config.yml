@@ -1,0 +1,28 @@
+name: James Kever
+favicon: null
+layout_spectrum: 0.36448215250857174
+typography_spectrum: 0.17018824140541255
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8240512926131487
+  lightness: 0.9296026062220335
+  saturation: 0.7365011067595333
+  rhythmicContrast: 0.2500842222943902
+purpose: []
